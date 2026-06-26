@@ -10,32 +10,7 @@ Meteor Up (mup for short) is a command line tool that allows you to deploy any [
 
 You can use install and use Meteor Up from Linux, Mac and Windows.
 
-> Screencast: [How to deploy a Meteor app with Meteor Up (by Sacha Greif)](https://www.youtube.com/watch?v=WLGdXtZMmiI)
 
-**Table of Contents**
-
-- [Features](#features)
-- [Server Configuration](#server-configuration)
-    - [SSH-key-based authentication (with passphrase)](#ssh-keys-with-passphrase-or-ssh-agent-support)
-- [Installation](#installation)
-- [Creating a Meteor Up Project](#creating-a-meteor-up-project)
-- [Example File](#example-file)
-- [Setting Up a Server](#setting-up-a-server)
-- [Deploying an App](#deploying-an-app)
-- [Additional Setup/Deploy Information](#additional-setupdeploy-information)
-    - [Server Setup Details](#server-setup-details)
-    - [Deploy Wait Time](#deploy-wait-time)
-    - [Multiple Deployment Targets](#multiple-deployment-targets)
-- [Access Logs](#access-logs)
-- [Reconfiguring & Restarting](#reconfiguring--restarting)
-- [Accessing the Database](#accessing-the-database)
-- [Multiple Deployments](#multiple-deployments)
-- [Server Specific Environment Variables](#server-specific-environment-variables)
-- [SSL Support](#ssl-support)
-- [Updating](#updating)
-- [Troubleshooting](#troubleshooting)
-- [Binary Npm Module Support](#binary-npm-module-support)
-- [Additional Resources](#additional-resources)
 
 ### Features
 
