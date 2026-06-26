@@ -2,7 +2,6 @@
 
 > This version is no longer maintaining.<br/>
 
-> New development is moved to here: https://github.com/kadirahq/meteor-up.
 
 #### Production Quality Meteor Deployments
 
