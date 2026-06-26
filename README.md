@@ -1,12 +1,12 @@
 # Meteor Up
 
 > This version is no longer maintaining.<br/>
-> [Mupx](https://github.com/arunoda/meteor-up/tree/mupx) is the stable version. <br/>
+
 > New development is moved to here: https://github.com/kadirahq/meteor-up.
 
 #### Production Quality Meteor Deployments
 
-Meteor Up (mup for short) is a command line tool that allows you to deploy any [Meteor](http://meteor.com) app to your own server. It supports only Debian/Ubuntu flavours and Open Solaris at the moments. (PRs are welcome)
+
 
 You can use install and use Meteor Up from Linux, Mac and Windows.
 
